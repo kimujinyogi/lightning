@@ -5,16 +5,17 @@ cCheck dependencies
 cProcessInfoPlistFile /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/Info.plist lightning/Resources/Info.plist
 cProcessPCH /var/folders/h2/4h_h3p392td291y1f__0c9hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-crheabywjujuwdhjlizjbpummugl/Prefix.pch.pth lightning/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cProcessPCH /var/folders/h2/4h_h3p392td291y1f__0c9hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ctmoybgbmvkfavbyqnpisunzxtcf/Prefix.pch.pth lightning/Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCGLView-282299B717B90070.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/Mac/CCGLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCDrawingPrimitives.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCDrawingPrimitives.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionInstant.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionInstant.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionCamera.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/testnode.o /Users/kimujinhyoku/Desktop/lightning/lightning/testnode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCDirectorMac.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/Mac/CCDirectorMac.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionInterval.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionInterval.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTouchHandler.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/iOS/CCTouchHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCAction.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCAction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionCamera.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionCatmullRom.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionCatmullRom.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionEase.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionEase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionGrid.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionGrid.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionGrid3D.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionGrid3D.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionInterval.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionInterval.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionInstant.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionInstant.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionManager.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionPageTurn3D.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionPageTurn3D.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCActionProgressTimer.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCActionProgressTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -27,19 +28,20 @@ cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-no
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCConfiguration.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCConfiguration.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/ccDeprecated.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/ccDeprecated.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCDirector.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCDirector.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCDrawingPrimitives.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCDrawingPrimitives.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCGLProgram.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCGLProgram.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/ccGLStateCache.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/ccGLStateCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCGrabber.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCGrabber.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCGrid.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCGrid.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCGrabber.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCGrabber.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCLabelAtlas.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCLabelAtlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCLabelBMFont.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCLabelBMFont.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCLabelTTF.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCLabelTTF.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCMenu.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCLayer.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCMenu.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCMenuItem.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCMenuItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCMotionStreak.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCMotionStreak.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCNode.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCNode+Debug.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCNode+Debug.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCNode.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCParallaxNode.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCParallaxNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCParticleBatchNode.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCParticleBatchNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCParticleExamples.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCParticleExamples.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -49,15 +51,15 @@ cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-no
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCRenderTexture.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCRenderTexture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCScene.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCScheduler.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCScheduler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCShaderCache.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCShaderCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/ccShaders.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/ccShaders.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCShaderCache.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCShaderCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCSprite.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCSprite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCSpriteFrame.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCSpriteFrame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCSpriteBatchNode.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCSpriteBatchNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTexture2D.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCTexture2D.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCSpriteFrame.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCSpriteFrame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCSpriteFrameCache.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCSpriteFrameCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTextureCache.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCTextureCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTexture2D.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCTexture2D.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTextureAtlas.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCTextureAtlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTextureCache.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCTextureCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTexturePVR.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCTexturePVR.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTileMapAtlas.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCTileMapAtlas.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTMXLayer.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/CCTMXLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -72,9 +74,8 @@ cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-no
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCES2Renderer.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/iOS/CCES2Renderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCGLView-B5C0B1313CB8DF6E.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/iOS/CCGLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTouchDispatcher.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCTouchHandler.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/iOS/CCTouchHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCDirectorMac.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/Mac/CCDirectorMac.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCEventDispatcher.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/Mac/CCEventDispatcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCGLView-282299B717B90070.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/Mac/CCGLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCWindow.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Platforms/Mac/CCWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/base64.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/base64.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CCArray.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/CCArray.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -86,15 +87,15 @@ cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-no
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CGPointExtension.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/CGPointExtension.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/NSThread+performBlock.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/NSThread+performBlock.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/TGAlib.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/TGAlib.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/TransformUtils.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/TransformUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/ZipUtils.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/ZipUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/TransformUtils.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/TransformUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CDAudioManager.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/CocosDenshion/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CDOpenALSupport.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/CocosDenshion/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/CocosDenshion.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/CocosDenshion/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/SimpleAudioEngine.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/CocosDenshion/SimpleAudioEngine.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/aabb.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/kazmath/src/aabb.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/mat4stack.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/kazmath/src/GL/mat4stack.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/matrix.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/kazmath/src/GL/matrix.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/mat4stack.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/kazmath/src/GL/mat4stack.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/mat3.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/kazmath/src/mat3.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/mat4.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/kazmath/src/mat4.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/neon_matrix_impl.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/kazmath/src/neon_matrix_impl.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
@@ -108,8 +109,8 @@ cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-no
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/main.o /Users/kimujinhyoku/Desktop/lightning/lightning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/AppDelegate.o /Users/kimujinhyoku/Desktop/lightning/lightning/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/HelloWorldLayer.o /Users/kimujinhyoku/Desktop/lightning/lightning/HelloWorldLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/Lightning.o /Users/kimujinhyoku/Desktop/lightning/lightning/Lightning.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/IntroLayer.o /Users/kimujinhyoku/Desktop/lightning/lightning/IntroLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/testnode.o /Users/kimujinhyoku/Desktop/lightning/lightning/testnode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning normal i386
 cGenerateDSYMFile /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning
 cCpResource lightning/Resources/Default.png build/Debug-iphonesimulator/lightning.app/Default.png
@@ -117,13 +118,13 @@ cCpResource lightning/Resources/Default-Landscape~ipad.png build/Debug-iphonesim
 cCpResource lightning/Resources/fps_images.png build/Debug-iphonesimulator/lightning.app/fps_images.png
 cCpResource lightning/Resources/fps_images-hd.png build/Debug-iphonesimulator/lightning.app/fps_images-hd.png
 cCpResource lightning/Resources/fps_images-ipadhd.png build/Debug-iphonesimulator/lightning.app/fps_images-ipadhd.png
-cCpResource lightning/Resources/Icon-Small-50.png build/Debug-iphonesimulator/lightning.app/Icon-Small-50.png
 cCpResource lightning/Resources/Icon-72.png build/Debug-iphonesimulator/lightning.app/Icon-72.png
+cCpResource lightning/Resources/Icon-Small-50.png build/Debug-iphonesimulator/lightning.app/Icon-Small-50.png
+cCpResource lightning/Resources/Icon-Small.png build/Debug-iphonesimulator/lightning.app/Icon-Small.png
 cCpResource lightning/Resources/Icon-Small@2x.png build/Debug-iphonesimulator/lightning.app/Icon-Small@2x.png
 cCpResource lightning/Resources/Icon.png build/Debug-iphonesimulator/lightning.app/Icon.png
-cCpResource lightning/Resources/Icon@2x.png build/Debug-iphonesimulator/lightning.app/Icon@2x.png
-cCpResource lightning/Resources/Icon-Small.png build/Debug-iphonesimulator/lightning.app/Icon-Small.png
 cCpResource lightning/Resources/iTunesArtwork build/Debug-iphonesimulator/lightning.app/iTunesArtwork
+cCpResource lightning/Resources/Icon@2x.png build/Debug-iphonesimulator/lightning.app/Icon@2x.png
 cCpResource lightning/libs/kazmath/src/ChangeLog build/Debug-iphonesimulator/lightning.app/ChangeLog
 cTouch /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app
 
@@ -178,11 +179,11 @@ t1339462884
 s9461312
 
 N/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app
-t1343793635
+t1343793653
 s612
 
 N/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM
-t1343793635
+t1343793652
 s102
 
 N/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/ChangeLog
@@ -246,7 +247,7 @@ t1343793562
 s61982
 
 N/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning
-t1343793635
+t1343793652
 s1745872
 
 N/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/AppDelegate.o
@@ -561,6 +562,10 @@ N/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulat
 t1343793562
 s23056
 
+N/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/Lightning.o
+t2
+s0
+
 N/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/NSThread+performBlock.o
 t1343793561
 s13768
@@ -614,9 +619,9 @@ t1343793561
 s3128
 
 N/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/lightning.LinkFileList
-c000000005018A9970000000000003698
-t1343793559
-s13976
+c000000005018AACD000000000000371A
+t1343793869
+s14106
 
 N/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/main.o
 t1343793561
@@ -655,7 +660,7 @@ t1343793559
 s8044
 
 N/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/testnode.o
-t1343793635
+t1343793652
 s18952
 
 N/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/utility.o
@@ -703,6 +708,11 @@ N/Users/kimujinhyoku/Desktop/lightning/lightning/IntroLayer.m
 c00000000501736DD00000000000005CF
 t1343698653
 s1487
+
+N/Users/kimujinhyoku/Desktop/lightning/lightning/Lightning.m
+c000000005018AA940000000000001563
+t1343793812
+s5475
 
 N/Users/kimujinhyoku/Desktop/lightning/lightning/Prefix.pch
 c00000000501736DD0000000000000132
@@ -1931,6 +1941,9 @@ r0
 CBuild AST from /Users/kimujinhyoku/Desktop/lightning/lightning/IntroLayer.m
 r0
 
+CBuild AST from /Users/kimujinhyoku/Desktop/lightning/lightning/Lightning.m
+r0
+
 CBuild AST from /Users/kimujinhyoku/Desktop/lightning/lightning/libs/CocosDenshion/CDAudioManager.m
 r0
 
@@ -2239,7 +2252,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0f5f8e74e1c8b541^09508f74e1c8b541^---0#1#0#--18"Check dependencies36"EF9CD3C2-859A-4F45-87CC-5BEE4A804F2C-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb5fe3e4de2c8b541^390fa74de2c8b541^---0#1#0#--18"Check dependencies36"B32D695E-D60B-42BC-8757-8D302A20F99D-
 
 CCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/AppDelegate.o /Users/kimujinhyoku/Desktop/lightning/lightning/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s365486361.913003
@@ -3255,6 +3268,19 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/kimujinhyoku/Desktop/lightning/lightning/IntroLayer.m001dfa19e1c8b541^7ff6231ae1c8b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/kimujinhyoku/Desktop/lightning/lightning/IntroLayer.m0000000000000000^3315"CompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/IntroLayer.o lightning/IntroLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimujinhyoku/Desktop/lightning    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-generated-files.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-own-target-headers.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-all-target-headers.hmap -iquote /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-project-headers.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/include -Ilightning/libs/kazmath/include -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/DerivedSources/i386 -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/DerivedSources -F/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator -include /var/folders/h2/4h_h3p392td291y1f__0c9hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-crheabywjujuwdhjlizjbpummugl/Prefix.pch -MMD -MT dependencies -MF /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/IntroLayer.d --serialize-diagnostics /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/IntroLayer.dia -c /Users/kimujinhyoku/Desktop/lightning/lightning/IntroLayer.m -o /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/IntroLayer.o36"08737042-55C3-43E4-B8B1-6AF5658FE080-
 
+CCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/Lightning.o /Users/kimujinhyoku/Desktop/lightning/lightning/Lightning.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s365486669.720558
+e365486669.787215
+r1
+xCompileC
+xbuild/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/Lightning.o
+x/Users/kimujinhyoku/Desktop/lightning/lightning/Lightning.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/kimujinhyoku/Desktop/lightning/lightning/Lightning.m8a92b84de2c8b541^f294c94de2c8b541^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/kimujinhyoku/Desktop/lightning/lightning/Lightning.m0000000000000000^3309"CompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/Lightning.o lightning/Lightning.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimujinhyoku/Desktop/lightning    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-generated-files.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-own-target-headers.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-all-target-headers.hmap -iquote /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-project-headers.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/include -Ilightning/libs/kazmath/include -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/DerivedSources/i386 -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/DerivedSources -F/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator -include /var/folders/h2/4h_h3p392td291y1f__0c9hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-crheabywjujuwdhjlizjbpummugl/Prefix.pch -MMD -MT dependencies -MF /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/Lightning.d --serialize-diagnostics /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/Lightning.dia -c /Users/kimujinhyoku/Desktop/lightning/lightning/Lightning.m -o /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/Lightning.o36"401C0E8D-BC15-4FB1-908C-858441DF394D-
+
 CCompileC build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/NSThread+performBlock.o /Users/kimujinhyoku/Desktop/lightning/lightning/libs/cocos2d/Support/NSThread+performBlock.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s365486361.735470
 e365486361.786525
@@ -3724,23 +3750,23 @@ xbuild/Debug-iphonesimulator/lightning.app/ChangeLog
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/lightning.app/ChangeLogccd4681ae1c8b541^1ee0691ae1c8b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/ChangeLog000000000080d041^607"CpResource lightning/libs/kazmath/src/ChangeLog build/Debug-iphonesimulator/lightning.app/ChangeLog    cd /Users/kimujinhyoku/Desktop/lightning    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimujinhyoku/Desktop/lightning/lightning/libs/kazmath/src/ChangeLog /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app36"F63DAED1-6E40-4C06-A9EB-5593BDE4F99D-
 
 CGenerateDSYMFile /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning
-s365486452.826087
-e365486452.962493
+s365486669.874414
+e365486669.989523
 r1
 xGenerateDSYMFile
 x/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM
 x/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generating /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM2a8ed374e1c8b541^db89f674e1c8b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM/0000000000000000^634"GenerateDSYMFile build/Debug-iphonesimulator/lightning.app.dSYM build/Debug-iphonesimulator/lightning.app/lightning    cd /Users/kimujinhyoku/Desktop/lightning    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning -o /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM36"EE36B18A-CDC8-4E43-88B5-846C888B7454-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generating /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM10e9df4de2c8b541^d252fd4de2c8b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM/0000000000000000^634"GenerateDSYMFile build/Debug-iphonesimulator/lightning.app.dSYM build/Debug-iphonesimulator/lightning.app/lightning    cd /Users/kimujinhyoku/Desktop/lightning    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning -o /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app.dSYM36"574FF1C8-00D0-4C70-B283-4B64F5D0A703-
 
 CLd /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning normal i386
-s365486452.721518
-e365486452.816309
+s365486669.794049
+e365486669.867363
 r1
 xLd
 x/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning
 xnormal
 xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightningaa62ba74e1c8b541^16fad074e1c8b541^---0#0#0#--1316"Ld build/Debug-iphonesimulator/lightning.app/lightning normal i386    cd /Users/kimujinhyoku/Desktop/lightning    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator -F/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator -filelist /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/lightning.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -lz -ObjC -fobjc-link-runtime -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -framework QuartzCore -framework OpenGLES -framework OpenAL -framework AudioToolbox -framework AVFoundation -framework UIKit -framework Foundation -framework CoreGraphics -framework GameKit -o /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning36"5941CA14-4F7D-48EF-8ECE-094B82E718E4-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning325acb4de2c8b541^9e0cde4de2c8b541^---0#0#0#--1316"Ld build/Debug-iphonesimulator/lightning.app/lightning normal i386    cd /Users/kimujinhyoku/Desktop/lightning    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator -F/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator -filelist /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/Objects-normal/i386/lightning.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -lz -ObjC -fobjc-link-runtime -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -framework QuartzCore -framework OpenGLES -framework OpenAL -framework AudioToolbox -framework AVFoundation -framework UIKit -framework Foundation -framework CoreGraphics -framework GameKit -o /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/lightning36"B03B9CA9-1EA6-47B6-B144-34C46B728CC6-
 
 CProcessInfoPlistFile /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app/Info.plist lightning/Resources/Info.plist
 s365486359.628035
@@ -3784,10 +3810,10 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile lightning/Prefix.pchb45aa417e1c8b541^8b34a917e1c8b541^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/kimujinhyoku/Desktop/lightning/lightning/Prefix.pch0000000000000000^2870"ProcessPCH /var/folders/h2/4h_h3p392td291y1f__0c9hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ctmoybgbmvkfavbyqnpisunzxtcf/Prefix.pch.pth lightning/Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimujinhyoku/Desktop/lightning    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-generated-files.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-own-target-headers.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-all-target-headers.hmap -iquote /Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/lightning-project-headers.hmap -I/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/include -Ilightning/libs/kazmath/include -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/DerivedSources/i386 -I/Users/kimujinhyoku/Desktop/lightning/build/lightning.build/Debug-iphonesimulator/lightning.build/DerivedSources -F/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/h2/4h_h3p392td291y1f__0c9hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ctmoybgbmvkfavbyqnpisunzxtcf/Prefix.pch.dia -c /Users/kimujinhyoku/Desktop/lightning/lightning/Prefix.pch -o /var/folders/h2/4h_h3p392td291y1f__0c9hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ctmoybgbmvkfavbyqnpisunzxtcf/Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/h2/4h_h3p392td291y1f__0c9hc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ctmoybgbmvkfavbyqnpisunzxtcf/Prefix.pch.d36"ECCC0220-54ED-4613-9415-711B1E285653-
 
 CTouch /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app
-s365486453.016919
-e365486453.026778
+s365486670.011821
+e365486670.015930
 r1
 xTouch
 x/Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Touch /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.appe5620475e1c8b541^2fdb0675e1c8b541^---0#0#0#--390"Touch build/Debug-iphonesimulator/lightning.app    cd /Users/kimujinhyoku/Desktop/lightning    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app36"12F7DFC8-7130-465C-BA69-B400F676A79D-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Touch /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app6614034ee2c8b541^7f15044ee2c8b541^---0#0#0#--390"Touch build/Debug-iphonesimulator/lightning.app    cd /Users/kimujinhyoku/Desktop/lightning    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kimujinhyoku/Desktop/lightning/build/Debug-iphonesimulator/lightning.app36"00873204-F3BD-4004-BE46-205FD31CCE03-
 

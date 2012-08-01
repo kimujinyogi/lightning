@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		318849F515C8DF1100E51C28 /* testnode.m in Sources */ = {isa = PBXBuildFile; fileRef = 318849F415C8DF1100E51C28 /* testnode.m */; };
+		318849FD15C8E24300E51C28 /* Lightning.m in Sources */ = {isa = PBXBuildFile; fileRef = 318849FC15C8E24300E51C28 /* Lightning.m */; };
 		31B3F75915C76E5B007A260B /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31B3F75815C76E5B007A260B /* QuartzCore.framework */; };
 		31B3F75B15C76E5B007A260B /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31B3F75A15C76E5B007A260B /* OpenGLES.framework */; };
 		31B3F75D15C76E5B007A260B /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31B3F75C15C76E5B007A260B /* OpenAL.framework */; };
@@ -139,6 +140,8 @@
 /* Begin PBXFileReference section */
 		318849F315C8DF1100E51C28 /* testnode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testnode.h; sourceTree = "<group>"; };
 		318849F415C8DF1100E51C28 /* testnode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testnode.m; sourceTree = "<group>"; };
+		318849FB15C8E24300E51C28 /* Lightning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lightning.h; sourceTree = "<group>"; };
+		318849FC15C8E24300E51C28 /* Lightning.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Lightning.m; sourceTree = "<group>"; };
 		31B3F75415C76E5B007A260B /* lightning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lightning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31B3F75815C76E5B007A260B /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		31B3F75A15C76E5B007A260B /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -459,6 +462,8 @@
 		31B3F76A15C76E5B007A260B /* lightning */ = {
 			isa = PBXGroup;
 			children = (
+				318849FB15C8E24300E51C28 /* Lightning.h */,
+				318849FC15C8E24300E51C28 /* Lightning.m */,
 				318849F315C8DF1100E51C28 /* testnode.h */,
 				318849F415C8DF1100E51C28 /* testnode.m */,
 				31B3F8E215C76E5D007A260B /* AppDelegate.h */,
@@ -1015,6 +1020,7 @@
 				31B3F8E715C76E5D007A260B /* HelloWorldLayer.m in Sources */,
 				31B3F8EA15C76E5D007A260B /* IntroLayer.m in Sources */,
 				318849F515C8DF1100E51C28 /* testnode.m in Sources */,
+				318849FD15C8E24300E51C28 /* Lightning.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
