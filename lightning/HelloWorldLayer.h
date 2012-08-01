@@ -15,9 +15,6 @@
 // HelloWorldLayer
 @interface HelloWorldLayer : CCLayer <GKAchievementViewControllerDelegate, GKLeaderboardViewControllerDelegate>
 {
-    NSArray* lightningList_;
-    
-    CGPoint point_;
 }
 
 // returns a CCScene that contains the HelloWorldLayer as the only child

@@ -7,9 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		31429AD815C8BFCD004FEB88 /* testnode.m in Sources */ = {isa = PBXBuildFile; fileRef = 31429AD715C8BFCC004FEB88 /* testnode.m */; };
-		31429AE015C8C98E004FEB88 /* streak3-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 31429ADE15C8C98E004FEB88 /* streak3-hd.png */; };
-		31429AE115C8C98E004FEB88 /* streak3.png in Resources */ = {isa = PBXBuildFile; fileRef = 31429ADF15C8C98E004FEB88 /* streak3.png */; };
 		31B3F75915C76E5B007A260B /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31B3F75815C76E5B007A260B /* QuartzCore.framework */; };
 		31B3F75B15C76E5B007A260B /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31B3F75A15C76E5B007A260B /* OpenGLES.framework */; };
 		31B3F75D15C76E5B007A260B /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31B3F75C15C76E5B007A260B /* OpenAL.framework */; };
@@ -136,14 +133,9 @@
 		31B3F8E415C76E5D007A260B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B3F8E315C76E5D007A260B /* AppDelegate.m */; };
 		31B3F8E715C76E5D007A260B /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B3F8E615C76E5D007A260B /* HelloWorldLayer.m */; };
 		31B3F8EA15C76E5D007A260B /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B3F8E915C76E5D007A260B /* IntroLayer.m */; };
-		31B3F8F215C76E80007A260B /* Lightning.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B3F8F015C76E80007A260B /* Lightning.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		31429AD615C8BFCC004FEB88 /* testnode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testnode.h; sourceTree = "<group>"; };
-		31429AD715C8BFCC004FEB88 /* testnode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testnode.m; sourceTree = "<group>"; };
-		31429ADE15C8C98E004FEB88 /* streak3-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "streak3-hd.png"; sourceTree = "<group>"; };
-		31429ADF15C8C98E004FEB88 /* streak3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = streak3.png; sourceTree = "<group>"; };
 		31B3F75415C76E5B007A260B /* lightning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lightning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31B3F75815C76E5B007A260B /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		31B3F75A15C76E5B007A260B /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -406,8 +398,6 @@
 		31B3F8E615C76E5D007A260B /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		31B3F8E815C76E5D007A260B /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		31B3F8E915C76E5D007A260B /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
-		31B3F8F015C76E80007A260B /* Lightning.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Lightning.m; sourceTree = "<group>"; };
-		31B3F8F115C76E80007A260B /* Lightning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lightning.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -466,12 +456,6 @@
 		31B3F76A15C76E5B007A260B /* lightning */ = {
 			isa = PBXGroup;
 			children = (
-				31429ADE15C8C98E004FEB88 /* streak3-hd.png */,
-				31429ADF15C8C98E004FEB88 /* streak3.png */,
-				31B3F8F115C76E80007A260B /* Lightning.h */,
-				31B3F8F015C76E80007A260B /* Lightning.m */,
-				31429AD615C8BFCC004FEB88 /* testnode.h */,
-				31429AD715C8BFCC004FEB88 /* testnode.m */,
 				31B3F8E215C76E5D007A260B /* AppDelegate.h */,
 				31B3F8E315C76E5D007A260B /* AppDelegate.m */,
 				31B3F8E515C76E5D007A260B /* HelloWorldLayer.h */,
@@ -911,8 +895,6 @@
 				31B3F78115C76E5B007A260B /* Icon@2x.png in Resources */,
 				31B3F78415C76E5B007A260B /* iTunesArtwork in Resources */,
 				31B3F8C215C76E5D007A260B /* ChangeLog in Resources */,
-				31429AE015C8C98E004FEB88 /* streak3-hd.png in Resources */,
-				31429AE115C8C98E004FEB88 /* streak3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1027,8 +1009,6 @@
 				31B3F8E415C76E5D007A260B /* AppDelegate.m in Sources */,
 				31B3F8E715C76E5D007A260B /* HelloWorldLayer.m in Sources */,
 				31B3F8EA15C76E5D007A260B /* IntroLayer.m in Sources */,
-				31B3F8F215C76E80007A260B /* Lightning.m in Sources */,
-				31429AD815C8BFCD004FEB88 /* testnode.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1132,7 +1112,6 @@
 				31B3F8EF15C76E5D007A260B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
